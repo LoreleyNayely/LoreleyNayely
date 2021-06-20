@@ -2,7 +2,7 @@
 ## Hello everybody, I'm Loreley 👋😊 
 ![](https://visitor-badge.glitch.me/badge?page_id=LoreleyNayely)
 - I'm a Software engineering student at [Escuela Politécnica Nacional](https://www.epn.edu.ec/)
-- I'm a member of the Software Club 
+- I'm a member of the Software Club EPN
 <img height="40" with="40" src="https://avatars.githubusercontent.com/u/84605041?s=200&v=4"></img>
 <br> 
 👉  I'm currently learning
